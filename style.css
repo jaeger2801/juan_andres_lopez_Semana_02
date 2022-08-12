@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Enriqueta:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300&family=Enriqueta:wght@700&display=swap');
 
 body{
     background-color: white;
@@ -8,14 +9,22 @@ body{
 h1{
 font-family: 'Enriqueta';
 font-size: 10.75em;
-color: 565656;
+color: #565656;
 }
 
 h2{
 font-family: 'Enriqueta';
 font-size: 5.5625em;
-color: 202020;
+color: #202020;
 }
+
+h3{
+font-family: 'Aleo', serif; 
+font-size: 1.25em;
+color: #565656;
+font-weight: 300;
+}
+
 
 
 .BannerSam{
