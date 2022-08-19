@@ -8,7 +8,7 @@ body{
 
 h1{
 font-family: 'Enriqueta';
-font-size: 10.75em;
+font-size: 250px;
 color: #565656;
 }
 
@@ -20,19 +20,57 @@ color: #202020;
 
 h3{
 font-family: 'Aleo', serif; 
-font-size: 1.25em;
+font-size: 26px;
 color: #565656;
 font-weight: 300;
 }
 
 
-
 .BannerSam{
     display: flex;
+    justify-content: center;
     background-image: url("src/Sam Banner Image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 700px;
+    height: 750px;
+    }
+
+.Sam01{
+    display: flex;
+    justify-content: center;
+    background-image: url("src/Black Bakground 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 750px;
+}
+
+.Banner_Article{
+    margin-top: 180px;
+    margin-left: 550px;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+        
+}
+
+.Banner_Article>h1{
+    margin: 0px;
+}
+
+.Texto_Elinsumergible{
+    position: absolute;
+    right: 14px;
+    top: 83px;
+}
+
+.Texto_InfanteMarina{
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    right: 42px;
+    top: 261px;
 }
