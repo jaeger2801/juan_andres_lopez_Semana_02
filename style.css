@@ -95,6 +95,7 @@ h5{
     height: 750px;
 }
 
+/* Configuracion dispósicion de las columnas */
 .columns{
     display: flex;
     flex-direction: row;
@@ -102,11 +103,13 @@ h5{
     width: 100%;
 }
 
+/* Configuración columna izquuierda */
 .column-1>img{
     justify-content: center;
     margin-top: 100px;
 }
 
+/* Configuración columna derecha */
 .column-2{
     width: 60%;
 }
@@ -146,9 +149,45 @@ h5{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 750px;
+    height: 980px;
 }
 
+.columns2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.column21{
+    width: 60%;
+}
+
+.segundo-round{
+    margin-top: 150px;
+    text-align: left;
+    justify-content: left;
+    flex-wrap: wrap;
+    color: #202020;
+    line-height: 84.8%;
+}
+
+.sam-text-body2{
+    color: #202020;
+}
+
+.segundo-barco{
+    border-radius: 20px;
+    justify-content: center;
+    width: 590px;
+    height: 405px;
+    position: absolute;
+}
+
+.imagen2-sam{
+    justify-content: center;
+    margin-top: 220px;
+}
 
 
 
