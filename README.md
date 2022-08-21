@@ -3,4 +3,4 @@
 ### El personaje elegido fue Sam el insumergible, que principalmente fue un gato el cual en la segunda guerra sobrevivio al hundimiento de 3 navios acorazados de guerra y me resultó muy interesante su historia, por esa razón decicí trabajar con este icónico personaje.
 
 ## Imagen disgramación referencia.
-![diagramación articulo web](./src/Propuesta.png)
+![diagramación articulo web](/src/Propuesta.png)
