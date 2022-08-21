@@ -189,6 +189,111 @@ h5{
     margin-top: 220px;
 }
 
+/* ----------------------------------------------------------------------------- */
+
+.Sam03{
+    float: left;
+    width: 50%;
+    display: flex;
+    background-image: url("src/Grey Bakground 3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 980px;
+}
+
+/* Configuracion dispósicion de las columnas */
+.columns3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+/* Configuración columna izquuierda */
+.column-13>img{
+    justify-content: center;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+/* Configuración columna derecha */
+.column-23{
+    width: 60%;
+}
+
+.tercer-round{ 
+    margin-left: 50px;
+    margin-top: 150px;
+    text-align: left;
+    justify-content: left;
+    flex-wrap: wrap;
+    color: #202020;
+    line-height: 84.8%;
+}
+
+.sam-text-body3{
+    margin-left: 50px;
+    color: #202020;
+}
+
+.tercer-barco{
+    margin-left: 50px;
+    border-radius: 20px;
+    justify-content: center;
+    width: 590px;
+    height: 405px;
+    position: absolute;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.end-pag{
+    float: left;
+    background-image: url("src/Dark Grey Bakground 4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 750px;
+}
+
+.disposicion{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.jubilacion-titlle{
+    margin-top: 120px;
+    color: #D8D8D8;
+}
+
+.texto-final{
+    margin-top: -30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.sam-perfil{
+    margin-top: 40px;
+}
+
+.sam-frase{
+    margin-top: 10;
+    text-align: center;
+    line-height: 150%;
+}
+
+
+
+
+
+
+
+
+
 
 
 
